@@ -1,3 +1,3 @@
-# JavaScript30
+# JavaScript30 course.
 
-Cloned from https://github.com/wesbos/JavaScript30
+Cloned from https://github.com/wesbos/JavaScript30 by Wes Bos.
